@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 -->
 
 Welcome!
+### 👤个人
+全栈开发/数据挖掘
 
+<!--
+### 🎁项目
+-->
 
-
-### 🚀Skills
+### 🚀技术
 <p align="left"> 
     &emsp;&emsp;&emsp;
     <a href=""><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" ></a>&emsp;
