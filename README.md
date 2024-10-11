@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome!
+
+
+
+### 🚀Skills
+<p align="left"> 
+    &emsp;&emsp;&emsp;
+    <a href=""><img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" ></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" ></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;      
+    <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
+
+</p>
+
+
+<p align="left"> 
+    &emsp;&emsp;&emsp;    
+    <a href=""><img src="https://img.shields.io/badge/MySQL-00C7B7?style=flat-square&logo=mysql&logoColor=white" ></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Flask-0081CB?style=flat-square&logo=flask&logoColor=white" ></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/SpringBoot-DC322F?style=flat-square&logo=springboot&logoColor=white" ></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Android-6DB33F?style=flat-square&logo=android&logoColor=white" ></a>&emsp;
+    <a href=""><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" ></a>&emsp;
+
+</p>
