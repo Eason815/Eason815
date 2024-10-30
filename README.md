@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Welcome!
+
+我的博客：https://eason815.github.io/
+
+
 ### 👤个人
 全栈开发/数据挖掘
 
